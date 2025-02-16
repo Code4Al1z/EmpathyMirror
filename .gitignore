@@ -9,6 +9,13 @@
 /Builds/
 /Logs/
 /UserSettings/
+/EmpathyMirror/Library/
+/EmpathyMirror/Temp/
+/EmpathyMirror/Obj/
+/EmpathyMirror/Build/
+/EmpathyMirror/Builds/
+/EmpathyMirror/Logs/
+/EmpathyMirror/UserSettings/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
